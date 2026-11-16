@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Phone, Mail, MapPin, Play } from "lucide-react";
 
 const TOUR_URL =
-  "https://simple-solutions-for-listings.aryeo.com/sites/eyvmklbx/unbranded";
+  "https://simple-solutions-for-listings.aryeo.com/sites/1268-6th-ave-marco-island-fl-34145-30958753/branded";
 
 export function Hero() {
   return (
