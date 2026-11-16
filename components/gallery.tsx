@@ -5,7 +5,7 @@ import Image from "next/image";
 import { X, ChevronLeft, ChevronRight, Play } from "lucide-react";
 
 const TOUR_URL =
-  "https://simple-solutions-for-listings.aryeo.com/sites/eyvmklbx/unbranded";
+  "https://simple-solutions-for-listings.aryeo.com/sites/1268-6th-ave-marco-island-fl-34145-30958753/branded";
 
 const photos = [
   { src: "/images/31.webp", alt: "1268 6th Ave, Marco Island — Front Elevation" },
