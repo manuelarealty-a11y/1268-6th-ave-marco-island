@@ -52,6 +52,35 @@ export function SiteFooter() {
         </div>
       </div>
       <p className="mt-6 text-center text-sm">
+        More from Manuela Realty:{" "}
+        <a
+          href="https://www.manuelarealty.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-4 transition hover:text-emerald-300"
+        >
+          manuelarealty.com
+        </a>{" "}
+        &middot;{" "}
+        <a
+          href="https://www.naplesrealestate.sale"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-4 transition hover:text-emerald-300"
+        >
+          naplesrealestate.sale
+        </a>{" "}
+        &middot;{" "}
+        <a
+          href="https://floridaimmobilienkauf.de"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-4 transition hover:text-emerald-300"
+        >
+          floridaimmobilienkauf.de
+        </a>
+      </p>
+      <p className="mt-6 text-center text-sm">
         <a
           href="https://naplesrealestate.sale/privacy"
           target="_blank"
