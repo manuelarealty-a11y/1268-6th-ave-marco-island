@@ -10,7 +10,7 @@ const highlights = [
 
 export function Area() {
   return (
-    <section className="bg-white px-6 py-20 md:px-14">
+    <section id="area" className="bg-white px-6 py-20 md:px-14">
       <div className="mx-auto max-w-6xl">
         <p className="text-sm font-semibold uppercase tracking-widest text-emerald-700">
           The Marco Island Lifestyle

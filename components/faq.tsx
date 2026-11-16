@@ -40,7 +40,7 @@ export function Faq() {
   };
 
   return (
-    <section className="bg-slate-50 px-6 py-20 md:px-14">
+    <section id="faq" className="bg-slate-50 px-6 py-20 md:px-14">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
