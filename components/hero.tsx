@@ -27,7 +27,7 @@ export function Hero() {
             href="#contact"
             className="hidden rounded-full border border-white/60 bg-black/20 px-5 py-2 text-sm tracking-wide backdrop-blur-sm transition hover:bg-white hover:text-slate-950 md:inline-block"
           >
-            Request a Private Showing
+            Ask About Similar Homes
           </a>
         </div>
 
@@ -50,8 +50,8 @@ export function Hero() {
             <p className="font-serif text-4xl drop-shadow-lg sm:text-5xl">
               $775,000
             </p>
-            <p className="mt-3 inline-block rounded-full bg-emerald-400/90 px-4 py-1.5 text-sm font-semibold text-slate-950">
-              New Listing — November 15, 2026
+            <p className="mt-3 inline-block rounded-full bg-amber-400/90 px-4 py-1.5 text-sm font-semibold text-slate-950">
+              Under Contract — within 5 days of listing
             </p>
             <p className="mt-3 text-sm font-medium text-white/90 drop-shadow-md">
               $538 per sq ft · MLS #2261999

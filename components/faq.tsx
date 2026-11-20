@@ -1,7 +1,7 @@
 const faqs = [
   {
     q: "What is the asking price?",
-    a: "The home is offered at $775,000 — a new listing as of November 15, 2026.",
+    a: "The home was listed at $775,000 and went under contract within 5 days of listing, on November 20, 2026.",
   },
   {
     q: "How many bedrooms and bathrooms does the home have?",
@@ -20,8 +20,8 @@ const faqs = [
     a: "The home is in a flood plain, and the listing notes transferable flood insurance. Buyers should confirm coverage and cost with their own insurer.",
   },
   {
-    q: "How do I schedule a private showing?",
-    a: "Contact Manuela Schinagl of Manuela Realty International at 239-450-5622 or manuelarealty@gmail.com, or use the inquiry form on this page.",
+    q: "Can I still schedule a showing?",
+    a: "No — the home is under contract and showings are no longer available. If you're looking for a similar home, contact Manuela Schinagl of Manuela Realty International at 239-450-5622 or manuelarealty@gmail.com, or use the inquiry form on this page.",
   },
 ];
 

@@ -3,9 +3,9 @@ import "./globals.css";
 
 const siteUrl = "https://12686thave.com";
 const title =
-  "1268 6th Ave, Marco Island, FL 34145 | $775,000 | 3BR Ranch Home For Sale";
+  "1268 6th Ave, Marco Island, FL 34145 | $775,000 | 3BR Ranch Home Under Contract";
 const description =
-  "Offered at $775,000. Furnished 3-bed, 2-bath ranch on Marco Island — 1,440 sq ft, impact windows, new A/C, oversized garage, no HOA, room for a pool. MLS #2261999.";
+  "Listed at $775,000 — under contract within 5 days of listing. Furnished 3-bed, 2-bath ranch on Marco Island — 1,440 sq ft, impact windows, new A/C, oversized garage, no HOA, room for a pool. MLS #2261999.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -78,7 +78,7 @@ export default function RootLayout({
       "@type": "Offer",
       price: 775000,
       priceCurrency: "USD",
-      availability: "https://schema.org/InStock",
+      availability: "https://schema.org/OutOfStock",
     },
     datePosted: "2026-11-15",
     image: [

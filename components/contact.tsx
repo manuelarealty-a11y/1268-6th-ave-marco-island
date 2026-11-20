@@ -9,13 +9,14 @@ export function Contact() {
     >
       <div className="mx-auto max-w-4xl text-center">
         <p className="text-sm font-semibold uppercase tracking-widest text-emerald-300">
-          Private Showings &amp; Inquiries
+          Under Contract · Similar Homes &amp; Inquiries
         </p>
         <h2 className="mt-2 font-serif text-3xl md:text-4xl">
-          Ready to see 1268 6th Avenue in person?
+          1268 6th Avenue is under contract.
         </h2>
         <p className="mx-auto mt-4 max-w-2xl text-white/75">
-          For current pricing, availability, or a private showing, contact
+          This home went under contract within 5 days of listing. If
+          you&apos;re looking for a similar home on Marco Island, contact
           Manuela Schinagl of Manuela Realty International — serving Marco
           Island and Southwest Florida real estate.
         </p>
