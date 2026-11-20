@@ -56,8 +56,9 @@ export function Details() {
               Entdecken Sie 1268 6th Avenue auf Marco Island, Florida — ein
               gepflegtes, möbliertes Einfamilienhaus mit 3 Schlafzimmern, 2
               Bädern und ca. 1.440 sq ft Wohnfläche, ohne HOA-Gebühren, mit
-              Impact-Fenstern, neuer Klimaanlage und großer Garage.
-              Kontaktieren Sie uns für einen privaten Besichtigungstermin.
+              Impact-Fenstern, neuer Klimaanlage und großer Garage. Das Haus
+              ist bereits unter Vertrag — kontaktieren Sie uns, wenn Sie ein
+              ähnliches Haus suchen.
             </p>
           </div>
         </div>
