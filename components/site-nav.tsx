@@ -1,4 +1,4 @@
-import { Phone } from "lucide-react";
+import { ArrowLeft, Phone } from "lucide-react";
 
 const LINKS = [
   { href: "#gallery", label: "Photos" },
@@ -13,6 +13,13 @@ export function SiteNav() {
   return (
     <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/95 text-white backdrop-blur">
       <div className="flex items-center justify-between gap-4 px-4 py-3 md:px-14">
+        <a
+          href="https://www.naplesrealestate.sale"
+          className="flex shrink-0 items-center gap-1.5 text-sm font-medium text-white/80 transition hover:text-white"
+        >
+          <ArrowLeft className="h-4 w-4" />
+          Naples Real Estate
+        </a>
         <a href="#" className="shrink-0 text-sm font-semibold tracking-widest">
           1268 6TH AVE
         </a>
